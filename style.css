@@ -251,11 +251,11 @@ main .sec-title{
     box-shadow: 0 2px 5px rgba(255, 136, 0, 0.796);
     padding: 2%;
     max-width: 15%;
-    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    transition: box-shadow 0.3s ease;
 }
 .card:hover{
     box-shadow: 0 2px 5px rgba(0, 0, 0, 1);
-    transition: box-shadow 0.3s ease, transform 0.3s ease;
+    transition: box-shadow 0.3s ease;
 }
 
 .card p{
