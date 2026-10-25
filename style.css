@@ -389,15 +389,14 @@ main .sec-title{
     margin-top: 2%;
     margin-bottom: 5%;
     text-decoration: none;
-    transition: text-shadow 0.9s ease, transform 0.9s ease;
+    transition: text-shadow 0.9s ease;
 
 }
 #contact div ul li a:hover{
     
     color: wheat;
     text-shadow: 0 2px 5px rgba(153, 152, 151, 0.796);
-    transition: text-shadow 0.9s ease, transform 0.9s ease;
-}
+    transition: text-shadow 0.9s ease;
 
 footer{
     display: flex;
