@@ -397,6 +397,7 @@ main .sec-title{
     color: wheat;
     text-shadow: 0 2px 5px rgba(153, 152, 151, 0.796);
     transition: text-shadow 0.9s ease;
+}
 
 footer{
     display: flex;
